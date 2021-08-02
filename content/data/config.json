@@ -70,7 +70,8 @@
                 "icon": "linkedin",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "@"
     },
     "domain": "https://parallel-ant-87b5b.netlify.app"
 }
